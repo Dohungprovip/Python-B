@@ -79,6 +79,7 @@ Xem [tutien/README.md](tutien/README.md) và [báo cáo 20 trang](docs/Bao_cao_K
 
 ## Tài liệu
 
-- [Báo cáo ngắn](docs/BAO_CAO.md)
+- [Báo cáo 20 trang](docs/Bao_cao_Kiem_thu_Tu_Tien.docx)
+- [Slide thuyết trình](docs/Thuyet_trinh_Kiem_thu_Python.pptx)
 - [Dàn bài thuyết trình và kịch bản demo](docs/TRINH_BAY.md)
 - [Ghi chú đọc source code](docs/PHAN_TICH_SOURCE_CODE.md)
