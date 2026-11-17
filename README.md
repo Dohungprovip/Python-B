@@ -73,6 +73,10 @@ coverage: 100%
 
 Một test bị skip và hai test xfail được để lại có chủ ý để minh hoạ `skip` và `xfail`.
 
+## Kiểm thử dự án tu tiên
+
+Xem [tutien/README.md](tutien/README.md) và [báo cáo 20 trang](docs/Bao_cao_Kiem_thu_Tu_Tien.docx).
+
 ## Tài liệu
 
 - [Báo cáo ngắn](docs/BAO_CAO.md)
